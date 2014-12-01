@@ -25,18 +25,18 @@ apply plugin: 'forge'
 // Naming convention is up to you I personally recommend <minecraft version>-<mod version> as per Semantic versioning (see http://semver.org/).
 // Eg. 1.7.10-1.0
 
-version = "1.7.10-1.0"
+version = "1.7.10-0.1"
 
 // The group name used in the mod, also used to determine which package to look for the mod in.
 // Consult http://maven.apache.org/guides/mini/guide-naming-conventions.html for convention, normally tld.domain.project
 // Eg. dk.philiphansen.basemod - That is the project "basemod" under the domain philiphansen.dk
 
-group = "dk.philiphansen.basemod"
+group = "dk.philiphansen.forgemultiblocks"
 
 // The base name of the jar file, that is the name without the version appended.
 // Eg. basemod - Will result in "basemod-version.number.jar" when the file is generated.
 
-archivesBaseName = "basemod"
+archivesBaseName = "ForgeMultiblocks"
 
 minecraft {
 	

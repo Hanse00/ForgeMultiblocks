@@ -1,8 +1,8 @@
 [
   {
-    "modid": "basemod",
-    "name": "BaseMod",
-    "description": "A base mod which includes all the files needed to create a new Minecraft Forge mod.",
+    "modid": "forgemultiblocks",
+    "name": "Forge Multiblocks",
+    "description": "A utility mod to create multiblock structures with MinecraftForge.",
     "version": "${version}",
     "mcversion": "${mcversion}",
     "url": "",
